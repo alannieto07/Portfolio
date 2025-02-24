@@ -1,8 +1,60 @@
-a{
-    font-family: "M PLUS Rounded 1c", serif;
+a,h1,h3{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     margin-left: 3vh;
+}
+
+a:hover{
+    color:white;
 }
 
 a#alan{
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
+
+div#titulo{
+    padding-top: 150px;
+}
+
+
+svg{
+    margin-right: 20px;
+}
+
+div#Contenedorsvg{
+    margin-top: 70px;
+}
+
+a#linksvg{
+    color: black;
+}
+
+a#linksvg:hover{
+    color: white;
+}
+
+@keyframes cambioColor {
+    0%{ background-color: aliceblue;}
+    33%{background-color:red;}
+    66%{background-color: blue;}
+    100%{background-color: blueviolet;}
+}
+
+div#contenedor,nav{
+    background: linear-gradient(90deg,rgb(241, 196, 241),rgb(230, 126, 198),rgb(210, 21, 228));
+    background-size: 300% 300%;
+    animation: gradienteAnimado 6s infinite alternate;
+    padding-bottom: 49px;
+}
+
+@keyframes gradienteAnimado{
+    0%{background-position: 0% 50%;}
+    100%{background-position: 100% 50%;}
+}
+
+@media (max-width:600px){
+    div#contenedor{
+        padding-bottom: 55px;
+    }
+
+}
+
