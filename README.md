@@ -8,6 +8,10 @@ Currently, two official plugins are available:
 - [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
 
 seguimos avanzando
-faltan algunps detalles como:
-que el texto se mueva
-hacerlo mas responsive para celular
+
+proximo:
+
+corregir body #aboutme para pantallas chicas
+
+seguir avanzando con el body
+

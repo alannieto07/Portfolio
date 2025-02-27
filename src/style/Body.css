@@ -1,0 +1,30 @@
+div#AboutMe{
+    padding-top: 80px;
+    padding-bottom: 75px;
+    padding-right: 90px;
+    padding-left: 60px;
+    
+}
+
+div#foto{
+    padding-left: 90px;
+}
+
+div#texto{
+    padding-top: 90px;
+    padding-left: 90px;
+    padding-right: 90px;
+    padding-bottom: 40px;
+}
+
+p,h2{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+@media (max-width:320px) {
+    div#Aboutme{
+        display: flex;
+        flex-wrap: row;
+    }
+    
+}

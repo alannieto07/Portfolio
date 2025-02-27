@@ -12,7 +12,7 @@ a#alan{
 }
 
 div#titulo{
-    padding-top: 150px;
+    padding-top: 40px;
 }
 
 
@@ -32,29 +32,18 @@ a#linksvg:hover{
     color: white;
 }
 
-@keyframes cambioColor {
-    0%{ background-color: aliceblue;}
-    33%{background-color:red;}
-    66%{background-color: blue;}
-    100%{background-color: blueviolet;}
-}
 
-div#contenedor,nav{
-    background: linear-gradient(90deg,rgb(241, 196, 241),rgb(230, 126, 198),rgb(210, 21, 228));
-    background-size: 300% 300%;
-    animation: gradienteAnimado 6s infinite alternate;
-    padding-bottom: 49px;
-}
-
-@keyframes gradienteAnimado{
-    0%{background-position: 0% 50%;}
-    100%{background-position: 100% 50%;}
-}
-
-@media (max-width:600px){
+@media (max-width:425px){
     div#contenedor{
-        padding-bottom: 55px;
+    padding-top: 40px;
     }
 
 }
 
+div#contenedor,nav{
+    background-color: #28b463;
+    background-image: url("https://www.transparenttextures.com/patterns/green-dust-and-scratches.png");
+    padding-bottom: 88px;
+    padding-top: 70px;
+
+}
