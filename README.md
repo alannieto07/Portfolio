@@ -11,7 +11,6 @@ seguimos avanzando
 
 proximo:
 
-corregir body #aboutme para pantallas chicas
-
-seguir avanzando con el body
+detalles para la sección sobremi
+avanzar con la sección proyectos 
 
