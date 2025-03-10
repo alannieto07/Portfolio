@@ -28,9 +28,61 @@ const Body = () => {
 
 
     {/*seccion: projects*/}
-    <div class="mt-5">
-    <h1>projectss</h1>
+    <div class="row row-cols-1 row-cols-md-2 g-4">
+                    <div class="col">
+                        <a>
+                            <div class="card">
+                                <div class="card-body">
+                                        <h5 class="card-title">Conf Bs As</h5>
+                                        <p class="card-text">Landing Page para la ciudad de Buenos Aires.</p>
+                                        {/*boton*/}
+                                        {/*Lenguajes*/}
+                                        {/*Ult modificación*/}
+                                </div>
+                            </div>
+                        </a>
+                    </div>
+                    <div class="col">
+                        <a>
+                            <div class="card">
+                                <div class="card-body">
+                                        <h5 class="card-title">Conf Bs As</h5>
+                                        <p class="card-text">Landing Page para la ciudad de Buenos Aires.</p>
+                                        {/*boton*/}
+                                        {/*Lenguajes*/}
+                                        {/*Ult modificación*/}
+                                </div>
+                            </div>
+                        </a>
+                    </div>
+                    <div class="col">
+                        <a>
+                            <div class="card">
+                                <div class="card-body">
+                                        <h5 class="card-title">Conf Bs As</h5>
+                                        <p class="card-text">Landing Page para la ciudad de Buenos Aires.</p>
+                                        {/*boton*/}
+                                        {/*Lenguajes*/}
+                                        {/*Ult modificación*/}
+                                </div>
+                            </div>
+                        </a>
+                    </div>
+                    <div class="col">
+                        <a>
+                            <div class="card">
+                                <div class="card-body">
+                                        <h5 class="card-title">Conf Bs As</h5>
+                                        <p class="card-text">Landing Page para la ciudad de Buenos Aires.</p>
+                                        {/*boton*/}
+                                        {/*Lenguajes*/}
+                                        {/*Ult modificación*/}
+                                    </div>
+                            </div>
+                        </a>
+                    </div>
     </div>
+    
     {/*seccion: skills */}
     <h1>skills</h1>
     </>

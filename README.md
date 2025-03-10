@@ -11,6 +11,6 @@ seguimos avanzando
 
 proximo:
 
-detalles para la sección sobremi
-avanzar con la sección proyectos 
+Detalles para la sección sobremi (falta texto y probar dif colores de fondo)
+Comenzamos la sección de proyectos
 
