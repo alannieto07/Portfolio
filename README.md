@@ -11,6 +11,6 @@ seguimos avanzando
 
 proximo:
 
-Detalles para la sección sobremi (falta texto y probar dif colores de fondo)
-Comenzamos la sección de proyectos
+Detalles para la sección sobremi (falta texto )
+Comenzamos la sección de proyectos, falta: cambiar fuente texto, agregar lenguajes y last update.
 

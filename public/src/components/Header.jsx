@@ -53,7 +53,7 @@ const Header = () => {
 
                 </div>
                 <div class="d-flex justify-content-center mt-5">
-                    <a href="#Aboutme">
+                    <a href="#AboutMe">
                         <button type="button" class="btn btn-outline-dark btn-lg">Más sobre mi</button>
                     </a>
                 </div>

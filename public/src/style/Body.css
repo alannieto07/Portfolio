@@ -1,15 +1,51 @@
-p,h2{
+p,h2,h5{
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
 
 div#texto{
     margin-top: 80px;
+    padding-right: 80px;
 }
 
 div#AboutMe{
     background-image: url("https://www.transparenttextures.com/patterns/green-dust-and-scratches.png");
+    background-color: rgb(43, 39, 39);
+    padding-top: 70px;
+    padding-bottom: 70px;
+    padding-left: 50px;
 }
 
+div#foto{
+    padding-left: 80px;
+}
+
+div#Proyectos{
+    margin-top: 70px;
+    margin-bottom: 60px;
+
+}
+
+div#cards{
+    padding:40px;
+    transition: transform 0.3s ease-in-out, box-shadow 0.3s ease-in-out;
+    
+}
+
+.card{
+    transition: transform 0.3s ease-in-out, box-shadow 0.3s ease-in-out;
+}
+
+.card:hover{
+    transform: translateY(-10px);
+}
+
+
+
+@media screen  and (max-width: 576px){
+    .imagenoculta{
+        display:none;
+    }
+}
 
 
 
