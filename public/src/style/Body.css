@@ -1,4 +1,4 @@
-p,h2,h5{
+h2,h5,p,h1{
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
 
@@ -37,6 +37,14 @@ div#cards{
 
 .card:hover{
     transform: translateY(-10px);
+}
+
+.card-text{
+    font-weight: lighter;
+    background-color: rgb(218, 215, 215);
+    padding: 0%;
+    margin-left: 10px;
+    padding-bottom: 0%;
 }
 
 

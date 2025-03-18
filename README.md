@@ -12,5 +12,7 @@ seguimos avanzando
 proximo:
 
 Detalles para la sección sobremi (falta texto )
-Comenzamos la sección de proyectos, falta: cambiar fuente texto, agregar lenguajes y last update.
+Comenzamos la sección de proyectos, 
+metimos casi toda la informacion
+falta conectar con la api de github.
 
